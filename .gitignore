@@ -1,0 +1,3 @@
+*.pem
+
+/cmd/ocsp-client/ocsp-client
